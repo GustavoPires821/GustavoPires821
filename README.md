@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gustavo Souza
+- 👀 I’m interested in Data Science and Games
+- 🌱 I’m currently learning Python and SQL
+- 📫 How to reach me
+- E-mail: spfgustavo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/spfgustavo/
